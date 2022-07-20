@@ -28,6 +28,21 @@ const countryAndCapitalsList = [
     capitalDisplayText: 'Helsinki',
     country: 'Finland',
   },
+   {
+    id: 'SEOUL',
+    capitalDisplayText: 'Seoul',
+    country: 'SOUTH KOREA',
+  },
+  {
+    id: 'DHAKA',
+    capitalDisplayText: 'Dhaka',
+    country: 'Bangladesh',
+  },
+  {
+    id: 'WASHINGTON D.C',
+    capitalDisplayText: 'Washington D.C',
+    country: 'United States',
+  },
 ]
 
 class Capitals extends Component {
